@@ -1,0 +1,9 @@
+{
+	"name": "manideepazureproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "54aec1dd-10aa-4169-884e-717330821f47",
+		"tenantId": "44c481d2-3171-49f0-a908-f85ea6385a46"
+	}
+}
